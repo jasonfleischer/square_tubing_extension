@@ -20,7 +20,7 @@ Support the Developer
 
 ## Images
 
-![Screenshot1](./images/tubing_before_after.jpeg "Sreenshot1")
-![Screenshot2](./images/piece_new_old.jpeg "Sreenshot2")
-![Screenshot3](./images/vacuum_before_after.jpeg "Sreenshot3")
-![Screenshot4](./images/model.png "Sreenshot4")
+![Screenshot1](./images/tubing_before_after.jpeg "Screenshot1")
+![Screenshot2](./images/piece_new_old.jpeg "Screenshot2")
+![Screenshot3](./images/vacuum_before_after.jpeg "Screenshot3")
+![Screenshot4](./images/model.png "Screenshot4")
