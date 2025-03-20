@@ -4,7 +4,7 @@
 This is a [OpenSCAD](https://openscad.org/) project that produces a 3D model for a square tubing extension. The stl file is used for 3D printing.
 
 This project can be found on thingiverse:  
-[thingiverse - Square Tubing Extension](https://www.thingiverse.com/thing:6297035)
+[thingiverse - Square Tubing Extension](https://www.thingiverse.com/thing:6985789)
 
 ## Instructions
 For changing the design to have different dimensions you will need [OpenSCAD](https://openscad.org/). Open the file named 'square_tubing_extension.scad' with OpenSCAD. On lines 8-10, change the values of the variables to your desire. These variables are currently setup for 20mm square tubing. Export the new .stl file to use in your 3D prints. For a snug fit into the tubing a piece of tape can be used around the piece insert.
